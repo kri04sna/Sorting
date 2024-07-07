@@ -14,7 +14,7 @@ This repository contains implementations of various sorting algorithms in Python
 
 ## Requirements
 
-- Python 3.x
+- Python
 
 ## Usage
 
